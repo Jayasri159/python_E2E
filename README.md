@@ -1,1 +1,1 @@
-**Python Is a very Power full Language
+Python code and finding python training acuuracy and testing accuracy
